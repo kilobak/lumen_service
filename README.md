@@ -1,4 +1,3 @@
 # lumen_service
 
-
-This project is ghost bloging platform with docker-compose.
+Now it is ghost blogging with docker-compose
