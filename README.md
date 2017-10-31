@@ -1,2 +1,4 @@
 # lumen_service
-Create open service for lumen
+
+
+This project is ghost bloging platform with docker-compose.
